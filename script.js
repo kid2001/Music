@@ -45,6 +45,31 @@ $(function()
             name: "Tell ur Mom 2",
             url: "Musics/Huyen.mp4",
             picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },{
+        artist: " SƠN TÙNG M-TP ",
+            name: "Muộn Rồi Mà Sao Còn",
+            url: "Musics/MuonRoiMaSaoCon-SonTungMTP-7011803.mp3",
+            picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },{
+        artist: " SƠN TÙNG M-TP ",
+            name: "Chúng Ta Của Hiện Tại",
+            url: "Musics/chung_ta_cua_hien_tai_son_tung_m_tp_lofi_nhe_nhang_-5668673946110443659.mp3",
+            picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },{
+        artist: " NIZ ",
+        name: "Sẽ chẳng yêu người khác đâu",
+        url: "Musics/se_chang_yeu_nguoi_khac_dau_niz_official_video_lyric_9064250782879981847.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },{
+        artist: " Muội cover ",
+        name: "Có hẹn với thanh xuân",
+        url: "Musics/co_hen_voi_thanh_xuan_cover_tiktoker_muoiiiii_nay_nguoi_oi_anh_dung_quen_3935712109920401508.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    },{
+        artist: " Vanh ",
+        name: "Thích em hơi nhiều",
+        url: "Musics/thich_em_hoi_nhieu_wren_evans_vanh_cover_-8911705344719868982.mp3",
+        picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }];
 	
 	function shuffle(a) {
